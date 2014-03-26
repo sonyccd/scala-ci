@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/earldouglas/scala-ci.svg?branch=master)](https://travis-ci.org/earldouglas/scala-ci) [![Coverage Status](https://coveralls.io/repos/earldouglas/scala-ci/badge.png)](https://coveralls.io/r/earldouglas/scala-ci)
