@@ -36,7 +36,7 @@ Import the sbt-scoverage plugin in your project configuration:
 *project/plugins.sbt:*
 
 ```scala
-addSbtPlugin("com.sksamuel.scoverage" %% "sbt-scoverage" % "0.95.7")
+addSbtPlugin("org.scoverage" %% "sbt-scoverage" % "0.98.0")
 ```
 
 Enable the sbt-scoverage plugin in your build configuration:
