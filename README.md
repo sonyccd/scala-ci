@@ -3,6 +3,8 @@
 
 # Continuous integration for Scala
 
+*March 25, 2014*
+
 Here I outline the steps to take to enable continuous integration for Scala 
 projects, including GitHub push-triggered building and testing, code test 
 coverage, stats tracking, reporting, and badging.
