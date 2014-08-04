@@ -23,7 +23,7 @@ Create a *.travis.yml* file in the root of your project:
 ```yaml
 language: scala
 scala:
-  - 2.10.3
+  - 2.11.2
 ```
 
 This gives you GitHub [push-triggered builds](https://travis-ci.org/earldouglas/scala-ci) 
@@ -38,7 +38,7 @@ Import the sbt-scoverage plugin in your project configuration:
 *project/plugins.sbt:*
 
 ```scala
-addSbtPlugin("org.scoverage" %% "sbt-scoverage" % "0.98.0")
+addSbtPlugin("org.scoverage" %% "sbt-scoverage" % "0.99.7.1")
 ```
 
 Enable the sbt-scoverage plugin in your build configuration:
