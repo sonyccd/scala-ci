@@ -4,6 +4,6 @@ libraryDependencies += "org.scalaz" %% "scalaz-core" % "7.0.6"
 
 libraryDependencies += "org.scalatest" %% "scalatest" % "1.9.1" % "test"
 
-ScoverageSbtPlugin.instrumentSettings
+instrumentSettings
 
 CoverallsPlugin.coverallsSettings
